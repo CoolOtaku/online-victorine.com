@@ -6,13 +6,13 @@
 
 This is a revised version of a course project I was commissioned ([Online-Victorine](https://github.com/CoolOtaku/Online-Victorine)).
 
-A site (game) for passing quizzes on various topics. Using its own API.
+A site (game) for passing quizzes on various topics. Using its own **API**.
 
 <b>UA:</b>
 
 Це доопрацьована версія курсового проекту, який у мене замовили ([Online-Victorine](https://github.com/CoolOtaku/Online-Victorine)).
 
-Сайт (гра) для проходження вікторін на різні теми. З використанням власного API.
+Сайт (гра) для проходження вікторін на різні теми. З використанням власного **API**.
 
 #
 ## Screenshots
@@ -30,20 +30,21 @@ A site (game) for passing quizzes on various topics. Using its own API.
 #
 ## Technologies used
 <b>EN:</b>
-- Using Bootstrap (front-end framework)
-- Creating a JavaScript quiz game
-- Using a MySQL database
-- Creating your own API
-- Authorization through Google
+- Using **Bootstrap** (front-end framework)
+- Creating a **JavaScript** quiz game
+- Using a **MySQL** database
+- Creating your own **API**
+- Authorization through **Google**
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання Bootstrap (front-end framework)
-- Створення гри-вікторини на JavaScript
-- Використання бази даних MySQL
-- Створення власного API
-- Авторизація через Google
+- Використання **Bootstrap** (front-end framework)
+- Створення гри-вікторини на **JavaScript**
+- Використання бази даних **MySQL**
+- Створення власного **API**
+- Авторизація через **Google**
 - Пошук інформації та навігація по сайту
+
 #
 ## License
 ```
